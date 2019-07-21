@@ -8,4 +8,5 @@ This project used a Dallas OneWire DS2408 8-channel addressable switch chip wire
 ![alt text](https://github.com/BillKlineVT/OneWireMonitor/blob/master/OneWireMonitor%20Hardware.JPG?raw=true)
 
 ## User interface
-This project relied on the Boxcar API to send push notifications to specified user's smart phones
+This project relies on the Boxcar API to send push notifications to specified user's smart phones
+More info on API at https://boxcar.io/, with apps available for iOS and Android
